@@ -2,6 +2,10 @@
 struct Game 
 {
 
-	std::string name;
-	Game
-}
+	string name;
+	public:
+
+	void startGame(
+};
+
+
